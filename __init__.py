@@ -1,2 +1,1 @@
-from .DistanceMeasureBase import DistanceMeasureBase
-from .EuclideanDistance import EuclideanDistance
+from .LogOddsRatioUninformativeDirichletPrior import LogOddsRatioUninformativeDirichletPrior
